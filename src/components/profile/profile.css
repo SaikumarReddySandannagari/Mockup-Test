@@ -1,0 +1,79 @@
+#body{
+  display : flex;
+  top:0;
+  bottom: 0;
+  height: 850px;
+}
+#left{
+ 
+  background-color: black;
+  color:white;
+  height: 840px;
+}
+
+.sidebar-dropdown{
+  font-size: x-large;
+  margin-top: 50px;
+  
+}
+#right{
+  height: 840px;
+  background-color: #383838;
+}
+
+.user-info{
+  padding-top: 30px;
+  /* padding-left: 150px; */
+  font-size: larger;
+}
+
+.sidebar-header{
+  margin-top: 20px;
+}
+
+img{
+  border-radius: 50%;
+  height: 100px;
+  width:100px;
+  float: left;
+  position: center;
+
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0px;
+  list-style-position: inside;
+  text-align: left;
+ }
+
+ #edit-profile{
+   text-align: left;
+   color: white;
+ }
+
+ #save-changes{
+   margin-left: 30px;
+ }
+
+ #changes-cancel{
+   color: red;
+ }
+
+ #changes{
+   margin-left: 10%;
+ }
+
+ #profile-pic{
+   height:150px;
+   width:150px;
+ }
+
+ #App{
+   background-color: #383838 ;
+   
+ }
+
+ #edit-body{
+   padding-top: 50px;
+ }
