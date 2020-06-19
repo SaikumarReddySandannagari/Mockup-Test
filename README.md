@@ -1,5 +1,5 @@
-Saikumar Reddy Sandannagari
-email:saikumarreddy.sandannagari@sjsu.edu
+Saikumar Reddy Sandannagari ||
+Email:saikumarreddy.sandannagari@sjsu.edu
 
 
 Steps to run:
